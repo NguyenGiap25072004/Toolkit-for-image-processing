@@ -80,5 +80,4 @@
 
 *   Phần nhận dạng đối tượng (Recognition) hiện tại chỉ triển khai nhận diện khuôn mặt đơn giản sử dụng Haar Cascade.
 *   Bộ lọc Wiener (Wiener Filter) trong phần khôi phục ảnh (Restoration) chỉ là triển khai cơ bản cho mục đích minh họa. Triển khai đầy đủ phức tạp hơn và đòi hỏi ước lượng hàm truyền đạt nhiễu và hàm truyền đạt của quá trình làm mờ ảnh.
-*   Để phát triển các tính năng nhận dạng đối tượng nâng cao, bạn có thể tham khảo các thư viện học sâu như TensorFlow, PyTorch.
 *   Ứng dụng sử dụng theme `breeze` từ thư viện `ttkthemes`. Bạn có thể thay đổi theme khác trong file `main.py`.
