@@ -67,6 +67,9 @@
 
 ![Screenshot 2024-12-23 092228](https://github.com/user-attachments/assets/cf56eaa5-70e7-45b5-a28e-aaffb33a05de)
 
+## Demo ứng dụng
+
+https://github.com/user-attachments/assets/40db5036-be6c-4e97-93f1-0760fa51368d
 
 ## Phiên bản
 
