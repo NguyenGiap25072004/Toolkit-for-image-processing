@@ -74,7 +74,7 @@
 
 ## Tác giả
 
-*   \Nguyễn Hữu Giáp - \22110120@st.vju.ac.vn
+*   Nguyễn Hữu Giáp - 22110120@st.vju.ac.vn
 
 ## Ghi chú
 
