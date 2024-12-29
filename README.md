@@ -69,7 +69,7 @@
 
 ## Demo ứng dụng
 
-https://github.com/user-attachments/assets/40db5036-be6c-4e97-93f1-0760fa51368d
+Bạn có thể xem video demo sử dụng app này qua link youtube sau: https://youtu.be/g06V2xqCQfc
 
 ## Phiên bản
 
